@@ -1,0 +1,33 @@
+body{
+    background-color: #262335;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 2.5%;
+}
+
+#border{
+    background-color: white;
+    height: 150px;
+    width: 500px;
+    border-radius: 8%;
+    margin: auto;
+}
+
+.slot{
+    font-size: 100px;
+    display: inline;
+}
+
+#start{
+    margin-top: 2%;
+    padding: 1%;
+}
+
+.snd{
+    display: none;
+}
+
+.mdown{
+    margin-top: 2%;
+}
